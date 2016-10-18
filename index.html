@@ -2,14 +2,11 @@
 layout: default
 ---
 
-<ul>
-  {% for posts in site.posts %}
-  <li>
-    <p>
-      {{posts.title}}
-    </p>
-  </li>
-  {% endfor %}
-</ul>
+{% for posts in site.posts %}
+  <h1>{{posts.title}}</h1>  
+  <p>{{posts.content}}</p>
+  
+{% endfor %}
+
 
 
