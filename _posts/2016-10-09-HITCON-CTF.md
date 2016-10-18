@@ -5,6 +5,7 @@ title: 2016-10-09-HITCON-CTF
 
 # 2016-10-09-HITCON-CTF
 https://ctf2016.hitcon.org
+&nbsp;
 
 
 ### Are you rich? - Web - 50
@@ -39,5 +40,6 @@ http://52.197.140.254/are_you_rich/
 - We can find one at http://www.bitcoinrichlist.com/top100.
 - Submitting "' union select '3Nxwenay9Z8Lc9JBiywExpnEFiLp6Afp8v" we get the flag.
 - hitcon{u51n6_07h3r_6uy5_b17c0n_70_byp455_ch3ck1n6_15_fun!!}
+&nbsp;
 
 
