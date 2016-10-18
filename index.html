@@ -28,10 +28,17 @@
         </ul>
       </header>
       <section>
-        <h1>
-<a id="writeups" class="anchor" href="#writeups" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>writeups</h1>
 
-<p>CTF Writeups</p>
+        <ul>
+          {% for posts in site.posts %}
+          <li>
+            <p>
+              {{posts.title}}
+            </p>
+          </li>
+          {% endfor %}
+        </ul>
+        
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/micaman">micaman</a></p>
