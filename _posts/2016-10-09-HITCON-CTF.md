@@ -1,10 +1,9 @@
 ---
-layout: news
 title: 2016-10-09-HITCON-CTF
 ---
 
 # 2016-10-09-HITCON-CTF
-## https://ctf2016.hitcon.org
+https://ctf2016.hitcon.org
 
 ### Are you rich? - Web - 50
 --------------------------------------------------------------------------------------------
